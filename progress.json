@@ -89,5 +89,14 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787037726.700422,
+    "completed_at": 1787037730.005023,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
   }
 ]
