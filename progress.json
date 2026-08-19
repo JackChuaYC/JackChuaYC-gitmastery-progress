@@ -1,5 +1,32 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1787045325.824959,
+    "completed_at": 1787045336.691684,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787048407.669737,
+    "completed_at": 1787048413.066802,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787044833.21448,
+    "completed_at": 1787044841.218503,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1787023344.745271,
     "completed_at": 1787023347.75794,
@@ -19,10 +46,132 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787043313.848962,
+    "completed_at": 1787043331.817633,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787043468.429606,
+    "completed_at": 1787043479.182282,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787043590.089861,
+    "completed_at": 1787043602.221802,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787043749.015935,
+    "completed_at": 1787043759.756784,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787043963.733068,
+    "completed_at": 1787043975.011514,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787044083.094894,
+    "completed_at": 1787044091.764863,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787037389.712093,
+    "completed_at": 1787037391.245748,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1787027817.427314,
     "completed_at": 1787027818.99775,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787042735.647977,
+    "completed_at": 1787042745.011542,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787042790.762141,
+    "completed_at": 1787042797.168548,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787030097.00366,
+    "completed_at": 1787030113.81119,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787030255.385289,
+    "completed_at": 1787030259.592517,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787128514.922906,
+    "completed_at": 1787128519.122602,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787128580.235514,
+    "completed_at": 1787128584.079223,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
     "status": "Completed"
   },
   {
@@ -55,29 +204,29 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1787030097.00366,
-    "completed_at": 1787030113.81119,
+    "exercise_name": "tags-add",
+    "started_at": 1787053530.41852,
+    "completed_at": 1787053534.523787,
     "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1787030255.385289,
-    "completed_at": 1787030259.592517,
-    "comments": [
-      "Great work setting up a public remote repository!"
+      "Great work using git tag to annotate various commits in the repository!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1787037389.712093,
-    "completed_at": 1787037391.245748,
+    "exercise_name": "tags-push",
+    "started_at": 1787055061.659639,
+    "completed_at": 1787055068.638846,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787054765.417751,
+    "completed_at": 1787054768.993163,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
   },
@@ -105,6 +254,15 @@
     "completed_at": 1787037797.275117,
     "comments": [
       "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787051108.711492,
+    "completed_at": 1787051112.993753,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
   }
