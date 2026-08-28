@@ -157,6 +157,24 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787132087.945502,
+    "completed_at": 1787132095.688932,
+    "comments": [
+      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787132150.970791,
+    "completed_at": 1787132155.124554,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "sensors-diff",
     "started_at": 1787128514.922906,
     "completed_at": 1787128519.122602,
@@ -169,6 +187,15 @@
     "exercise_name": "sensors-diff",
     "started_at": 1787128580.235514,
     "completed_at": 1787128584.079223,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787128731.378042,
+    "completed_at": 1787128735.012545,
     "comments": [
       "Great work comparing commits in git history!"
     ],
@@ -267,27 +294,9 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787128731.378042,
-    "completed_at": 1787128735.012545,
-    "comments": [
-      "Great work comparing commits in git history!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "sensors-checkout",
-    "started_at": 1787132087.945502,
-    "completed_at": 1787132095.688932,
-    "comments": [
-      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1787132150.970791,
-    "completed_at": 1787132155.124554,
+    "started_at": 1787889460.453275,
+    "completed_at": 1787889465.816412,
     "comments": [
       "Great work traversing the revision history!"
     ],
