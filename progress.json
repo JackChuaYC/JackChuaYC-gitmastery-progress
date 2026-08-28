@@ -473,5 +473,15 @@
       "The 'visitor-line' branch is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1787889974.606722,
+    "completed_at": 1787889977.987821,
+    "comments": [
+      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
