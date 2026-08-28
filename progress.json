@@ -510,5 +510,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1787890990.665473,
+    "completed_at": 1787890994.078674,
+    "comments": [
+      "The merge has not been undone properly."
+    ],
+    "status": "Incomplete"
   }
 ]
