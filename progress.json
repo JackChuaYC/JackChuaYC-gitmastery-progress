@@ -1,10 +1,56 @@
 [
   {
+    "exercise_name": "branch-bender",
+    "started_at": 1787471428.949671,
+    "completed_at": 1787471430.618419,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1787473098.107937,
+    "completed_at": 1787473099.784065,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787471653.545204,
+    "completed_at": 1787471655.202658,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787472796.742773,
+    "completed_at": 1787472798.42148,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "clone-repo",
     "started_at": 1787045325.824959,
     "completed_at": 1787045336.691684,
     "comments": [
       "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787472372.048565,
+    "completed_at": 1787472375.515399,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
   },
@@ -23,6 +69,51 @@
     "completed_at": 1787044841.218503,
     "comments": [
       "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787492812.113408,
+    "completed_at": 1787492815.282779,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787492834.619069,
+    "completed_at": 1787492836.149593,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787492725.0115,
+    "completed_at": 1787492726.704968,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1787488970.249315,
+    "completed_at": 1787488972.06646,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787496251.339323,
+    "completed_at": 1787496253.488177,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
   },
@@ -121,6 +212,33 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787474066.996171,
+    "completed_at": 1787474070.441321,
+    "comments": [
+      "Branch 'feature-delete' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787474119.3887,
+    "completed_at": 1787474121.488053,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787486573.392024,
+    "completed_at": 1787486575.573908,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "push-over",
     "started_at": 1787042735.647977,
     "completed_at": 1787042745.011542,
@@ -175,6 +293,15 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787889460.453275,
+    "completed_at": 1787889465.816412,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "sensors-diff",
     "started_at": 1787128514.922906,
     "completed_at": 1787128519.122602,
@@ -198,6 +325,51 @@
     "completed_at": 1787128735.012545,
     "comments": [
       "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787459221.80502,
+    "completed_at": 1787459223.6537,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787459642.760689,
+    "completed_at": 1787459644.421718,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787469040.718159,
+    "completed_at": 1787469043.988439,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787469067.371957,
+    "completed_at": 1787469070.827378,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787469088.672279,
+    "completed_at": 1787469090.464198,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
   },
@@ -290,15 +462,6 @@
     "completed_at": 1787051112.993753,
     "comments": [
       "Great work in viewing and understanding the diff of a specific commit!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1787889460.453275,
-    "completed_at": 1787889465.816412,
-    "comments": [
-      "Great work traversing the revision history!"
     ],
     "status": "Completed"
   }
